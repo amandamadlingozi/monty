@@ -30,9 +30,9 @@ The Monty project is a simple programming language interpreter that supports sta
 ## Usage
 To run the Monty interpreter, use the following command:
 
-	```bash
-	./monty bytecode_file.m
-	
+    ```bash
+    ./monty bytecode_file.m
+
 Replace your_bytecode_file.m with the path to your Monty bytecode file.
 
 ## Supported Opcodes
